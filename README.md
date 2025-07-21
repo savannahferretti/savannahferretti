@@ -6,4 +6,4 @@
 ![ORCiD](https://img.shields.io/badge/0000--0001--9684--7668-grey?style=flat-square&logo=orcid&link=https%253A%252F%252Forcid.org%252F0000-0001-9684-7668)
 ![Google Scholar](https://img.shields.io/badge/Google_Scholar-grey?style=flat-square&logo=google-scholar&link=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DkH2IC6wAAAAJ%26hl%3Den)
 
-Savannah L. Ferretti is a Ph.D. candidate in the Department of Earth System Science at the University of California, Irvine. She is co-advised by Professors [Mike S. Pritchard](https://research.nvidia.com/person/mike-pritchard) and [Jane W. Baldwin](https://www.janebaldw.in/). Her research focuses on using observational data and machine learning to understand the drivers of rainfall in the tropics.
+Savannah is a Ph.D. candidate in the Department of Earth System Science at the University of California, Irvine. She is co-advised by Professors [Mike S. Pritchard](https://research.nvidia.com/person/mike-pritchard) and [Jane W. Baldwin](https://www.janebaldw.in/). Her research focuses on using observational data and machine learning to understand the drivers of rainfall in the tropics.
