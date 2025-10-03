@@ -6,15 +6,11 @@
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0001--9684--7668-grey?style=flat-square&logo=orcid)](https://orcid.org/0000-0001-9684-7668)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-grey?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=kH2IC6wAAAAJ&hl=en)
 
----
-
 ## 👋 About Me  
 
 I’m a Ph.D. candidate in **Earth System Science** at the **University of California, Irvine**, co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) and [Jane Baldwin](https://www.janebaldw.in/).  
 
 My research combines **statistical modeling** and **machine learning** to understand the drivers of **South Asian monsoon rainfall**. I’m passionate about building **reproducible, open-source workflows** that bridge atmospheric science and data science.  
-
----
 
 ## 🛠️ Skills  
 
@@ -27,15 +23,6 @@ My research combines **statistical modeling** and **machine learning** to unders
 ![Linux](https://img.shields.io/badge/Linux-grey?logo=linux&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
----
-
-## 📊 GitHub Stats  
-
-![Savannah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavannahFerretti&show_icons=true&theme=default)  
-
----
-
 ## 📫 Let’s Connect  
 
-I’m always open to collaborations! Reach me at **[savannah.ferretti@uci.edu](mailto:savannah.ferretti@uci.edu)**  
-
+I’m always open to collaborations! Reach me at **[savannah.ferretti@uci.edu](mailto:savannah.ferretti@uci.edu)** 
