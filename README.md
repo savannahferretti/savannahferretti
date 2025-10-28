@@ -8,7 +8,7 @@
 
 ## 👋 About Me  
 
-I’m a Ph.D. candidate in Earth System Science at the University of California, Irvine, co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) and [Jane Baldwin](https://www.janebaldw.in/).  
+I’m a Ph.D. candidate in Earth System Science at the University of California, Irvine, co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/).  
 
 My research combines statistical modeling and machine learning to understand the drivers of South Asian monsoon rainfall. I’m passionate about building reproducible, open-source workflows that bridge atmospheric science and data science.  
 
