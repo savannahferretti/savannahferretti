@@ -10,9 +10,7 @@
 
 I’m a Ph.D. candidate in Earth System Science at the University of California, Irvine, co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/). My research combines statistical modeling and machine learning to understand the drivers of South Asian monsoon rainfall. I’m passionate about building reproducible, open-source workflows that bridge atmospheric science and data science.  
 
-**I am actively looking for full-time roles after I complete my PhD in June 2026**. Download my CV here!
-
-📄 [Download my CV (PDF)](https://raw.githubusercontent.com/savannahferretti/cv/main/Savannah_Ferretti_CV.pdf)
+**I am actively looking for full-time roles after I complete my PhD in June 2026**. 📄 Download my CV [here] (https://raw.githubusercontent.com/savannahferretti/savannahferretti/main/Savannah_Ferretti_CV.pdf)!
 
 ## 🛠️ Skills  
 
