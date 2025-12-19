@@ -1,15 +1,3 @@
-### 👋 Hi, I’m Savannah!  
-PhD Candidate in Earth System Science (Expected June 2026) | Open to work, collaborations, & research roles  
-
-🔭 Research: Statistical modeling & machine learning for monsoon and climate systems  
-💡 Skills: Python, PyTorch, Xarray, Dask, HPC, Git, Linux, LaTeX  
-📫 Email: savannah.ferretti@uci.edu | LinkedIn: linkedin.com/in/savannahferretti  
-📄 CV: [Download PDF](link-to-your-CV.pdf)
-
-
-
-
-
 # 🌎 Savannah Ferretti
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-red?style=flat-square)
@@ -20,9 +8,10 @@ PhD Candidate in Earth System Science (Expected June 2026) | Open to work, colla
 
 ## 👋 About Me  
 
-I’m a Ph.D. candidate in Earth System Science at the University of California, Irvine, co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/). 
+I’m a Ph.D. candidate in Earth System Science at the University of California, Irvine, co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) (now at NVIDIA) and [Jane Baldwin](https://www.janebaldw.in/). My research combines statistical modeling and machine learning to understand the drivers of South Asian monsoon rainfall. I’m passionate about building reproducible, open-source workflows that bridge atmospheric science and data science.  
 
-My research combines statistical modeling and machine learning to understand the drivers of South Asian monsoon rainfall. I’m passionate about building reproducible, open-source workflows that bridge atmospheric science and data science.  
+**I am actively looking for full-time roles after I complete my PhD in June 2026**. Download my CV here!
+
 
 ## 🛠️ Skills  
 
