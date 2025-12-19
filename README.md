@@ -25,4 +25,4 @@ I’m a Ph.D. candidate in Earth System Science at the University of California,
 
 ## 📫 Let’s Connect  
 
-I’m always open to collaborations! Reach me at [savannah.ferretti@uci.edu](mailto:savannah.ferretti@uci.edu)
+I’m always open to collaborations, reach me at [savannah.ferretti@uci.edu](mailto:savannah.ferretti@uci.edu)!
