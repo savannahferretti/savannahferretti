@@ -12,6 +12,7 @@ I’m a Ph.D. candidate in Earth System Science at the University of California,
 
 **I am actively looking for full-time roles after I complete my PhD in June 2026**. Download my CV here!
 
+📄 [Download my CV (PDF)](https://raw.githubusercontent.com/savannahferretti/cv/main/Savannah_Ferretti_CV.pdf)
 
 ## 🛠️ Skills  
 
