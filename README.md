@@ -6,7 +6,7 @@
 <a href="https://orcid.org/0000-0001-9684-7668"><img height="34" src="https://img.shields.io/badge/ORCID-555555?style=flat&logo=orcid" alt="ORCID"></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=kH2IC6wAAAAJ&hl=en"><img height="34" src="https://img.shields.io/badge/Google%20Scholar-555555?style=flat&logo=googlescholar" alt="Google Scholar"></a>
 
-I am a postdoctoral researcher in [Hannah Kerner’s](https://hannah-rae.github.io/) group at Arizona State University. I earned my Ph.D. in Earth System Science from UC Irvine, where I was co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) and [Jane Baldwin](https://www.janebaldw.in/), with [Tom Beucler](https://wp.unil.ch/dawn/) at the University of Lausanne as a close collaborator and mentor.
+I am a postdoctoral researcher in [Hannah Kerner’s](https://hannah-rae.github.io/) group at Arizona State University. I earned my PhD in Earth System Science from UC Irvine, where I was co-advised by [Mike Pritchard](https://research.nvidia.com/person/mike-pritchard) and [Jane Baldwin](https://www.janebaldw.in/), with [Tom Beucler](https://wp.unil.ch/dawn/) at the University of Lausanne as a close collaborator and mentor.
 
 My research combines physical understanding with machine learning to better understand and predict Earth system processes. I also develop reproducible, open-source software for scientific research.
 
